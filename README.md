@@ -1,6 +1,6 @@
 # app_hamburgeria
 
-A new Flutter application.
+A new Flutter application, simulate a delivery app interfaces.
 
 ## Getting Started
 
