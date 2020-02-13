@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307621590199",
+    "firebase_url": "https://jmburgerapp.firebaseio.com",
+    "project_id": "jmburgerapp",
+    "storage_bucket": "jmburgerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307621590199:android:02d5505ccca656f3",
+        "android_client_info": {
+          "package_name": "howtomake.apphamburgeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307621590199-6qlumhvftbnsl2pccknhbtsqq1tpsj6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "howtomake.apphamburgeria",
+            "certificate_hash": "16b292b5298e2f8166885b527c15297590e0230b"
+          }
+        },
+        {
+          "client_id": "307621590199-rg4sk251afnh49e5eo2qnqs1oaru81mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGet8XAanRTqhWaUaZiiRiOHof_M6lZHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307621590199-rg4sk251afnh49e5eo2qnqs1oaru81mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
